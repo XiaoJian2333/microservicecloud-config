@@ -61,7 +61,7 @@ eureka:
     prefer-ip-address: true
 
 info:
-  app.name: xiaojian-microservicecloud111
+  app.name: xiaojian-microservicecloud
   company.name: www.xiaojian.com
   build.artifactId: ${project.artifactId}
   build.version: ${project.version}
