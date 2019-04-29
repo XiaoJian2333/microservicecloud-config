@@ -24,7 +24,7 @@ spring:
   application:
     name: microservicecloud-config-dept-client  #应用名称
   datasource:
-    url: jdbc:mysql://localhost:3306/clouddb02?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
+    url: jdbc:mysql://localhost:3306/clouddb01?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver
